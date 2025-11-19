@@ -1,3 +1,4 @@
 
 This is a sample file.
-Second Task - TO create a repo in GitHub and to push code / files 
+Second Task - TO create a repo in GitHub and to push code / files
+Updating this file to apply Pull command
